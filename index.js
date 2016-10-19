@@ -66,7 +66,7 @@ function sendGenericMessage(sender, title, subtitle, image_url) {
 }
 
 app.get('/', function (req, res) {
-	res.send('Susi says Hello.');
+	res.send('602126782');
 });
 
 // for facebook verification
